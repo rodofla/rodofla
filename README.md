@@ -1,7 +1,7 @@
 Hi 👋 My name is Rodrigo Flores
 ===============================
 
-Estúdiate autodidacta de programación en busca de su primer empleo
+Estudiante autodidacta de programación en busca de su primer empleo
 ------------------------------------------------------------------
 
 * 🌍  I'm based in Viña del mar
