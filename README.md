@@ -22,13 +22,13 @@ Estudiante autodidacta de programación en busca de su primer empleo
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
   </a>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="[URL_DEL_ICONO_PHP](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg)" width="36" height="36" alt="PHP" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="[URL_DEL_ICONO_LARAVEL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg)" width="36" height="36" alt="Laravel" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="[URL_DEL_ICONO_VUE](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg)" width="36" height="36" alt="Vue.js" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue.js" />
   </a>
 </p>
 
