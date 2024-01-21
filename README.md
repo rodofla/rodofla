@@ -4,9 +4,9 @@ Hi 👋 My name is Rodrigo Flores
 Estudiante autodidacta de programación en busca de su primer empleo
 ------------------------------------------------------------------
 
-* 🌍  I'm based in Viña del mar
+* 🌍  I'm based in Santiago, Chile
 * ✉️  You can contact me at [Rodfloresp@gmail.com](mailto:Rodfloresp@gmail.com)
-* 🧠  I'm learning Python , Data Science
+* 🧠  I am currently studying Full Stack development with PHP using Laravel and Vue.js.
 * 🤝  I'm open to collaborating on Interesting project
 
 ### Skills
