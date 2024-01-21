@@ -21,12 +21,21 @@ Estudiante autodidacta de programación en busca de su primer empleo
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_PHP" width="36" height="36" alt="PHP" />
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_LARAVEL" width="36" height="36" alt="Laravel" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_VUE" width="36" height="36" alt="Vue.js" />
+  </a>
 </p>
 
 <p align="left">
   Currently learning Full Stack development with:
   <br>
-  <strong>Python</strong>, <strong>MySQL</strong>, and <strong>Django</strong>.
+  <strong>Python</strong>, <strong>MySQL</strong>, <strong>Django</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, and <strong>Vue.js</strong>.
 </p>
 
 ### Socials
