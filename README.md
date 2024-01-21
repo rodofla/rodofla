@@ -35,7 +35,7 @@ Estudiante autodidacta de programación en busca de su primer empleo
 <p align="left">
   Currently learning Full Stack development with:
   <br>
-  <strong>Python</strong>, <strong>MySQL</strong>, <strong>Django</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, and <strong>Vue.js</strong>.
+  <strong>MySQL</strong>, <strong>PHP</strong>, <strong>Laravel</strong>, and <strong>Vue.js</strong>.
 </p>
 
 ### Socials
