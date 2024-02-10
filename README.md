@@ -1,7 +1,4 @@
 Hi 👋 My name is Rodrigo Flores
-===============================
-
-Estudiante autodidacta de programación en busca de su primer empleo
 ------------------------------------------------------------------
 
 * 🌍  I'm based in Santiago, Chile
